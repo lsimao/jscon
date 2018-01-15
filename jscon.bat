@@ -1,1 +1,1 @@
-@cscript jscon.js
+@cscript jscon.js %*
